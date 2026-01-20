@@ -1,6 +1,6 @@
 -  Hi, I’m Indraneel Prabhudesai
--  I’m interested in Web Development and App development
--  I’m currently learning Python
+-  I’m interested in Front-End Development, AI, and Cybersecurity
+-  I’m currently learning Cybersecurity and AI development(Python)
 -  I’m looking to collaborate on Group Projects
 -  How to reach me: email me
 -  Pronouns: He/Him
