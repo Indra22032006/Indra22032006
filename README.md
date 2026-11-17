@@ -1,5 +1,5 @@
 -  Hi, I’m Indraneel Prabhudesai
--  I work in/learning Embedd Systems, Full Stack Development, AI, and Cybersecurity
+-  I work in/am learning Embedded Systems, Full Stack Development, AI, and Cybersecurity
 -  I’m currently learning Cybersecurity and AI development(Python)
 -  I’m looking to collaborate on Group Projects
 -  How to reach me: email me
